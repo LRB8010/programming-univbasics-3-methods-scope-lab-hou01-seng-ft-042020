@@ -14,6 +14,6 @@ def link
 end
 
 def all_phrases
-  catch_phrase = 
-  puts 
+  catch_phrase = mario toadstool link
+  puts catch_phrase
 end
